@@ -2,7 +2,7 @@
   
   # 📊 Juan Pablo Cristancho Gonzalez | Ingeniero de Sistemas & Data Analyst
   
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/jp-cristancho/)])
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cristanchogonzalez/)
   [![Email Badge](https://img.shields.io/badge/Email-juanpablo--cristancho@...-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.cristanchogonzalez@gmail.com)
   
 </div>
