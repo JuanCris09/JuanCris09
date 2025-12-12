@@ -41,6 +41,7 @@ Aquí puedes ver ejemplos de mi trabajo, donde aplico el rigor de la Ingeniería
 > **Resultado Demostrado:** Visualización Interactiva: Genera gráficos dinámicos y responsivos utilizando la librería Plotly Express.
 Análisis a Demanda: Los gráficos se generan solo cuando el usuario hace clic en los botones correspondientes.
 > [[Ver Repositorio]](https://github.com/JuanCris09/sprint7)
+> > <img src="https://github.com/JuanCris09/sprint7/blob/main/Graficos.png" alt="Captura de mi proyecto" width="300"/>
 
 ### 2. Proyecto de Validación y Limpieza de Datos
 > **Enfoque:** Garantizar la calidad de los datos a gran escala utilizando tu ventaja competitiva.
