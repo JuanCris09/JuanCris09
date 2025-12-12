@@ -55,14 +55,8 @@ Análisis a Demanda: Los gráficos se generan solo cuando el usuario hace clic e
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCris09&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="JuanCris09's GitHub Stats" />
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
- **<h3 align="left">Support Me</h3>**
+**<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
