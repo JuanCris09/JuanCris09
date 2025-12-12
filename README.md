@@ -38,14 +38,14 @@ Aquí puedes ver ejemplos de mi trabajo, donde aplico el rigor de la Ingeniería
 ### 1. Visualizador Interactivo de Datos de Vehículos con Streamlit
 > **Enfoque:** Análisis de la Canasta de Consumo y Proyección de Ingresos.
 > **Tecnologías Clave:** `Python`, `plotly_express`, `Pandas` para la limpieza y modelado, uso `streamlit` para visualizacion web.
-> **Resultado Demostrado:** [Visualización Interactiva: Genera gráficos dinámicos y responsivos utilizando la librería Plotly Express.
-Análisis a Demanda: Los gráficos se generan solo cuando el usuario hace clic en los botones correspondientes.]
+> **Resultado Demostrado:** Visualización Interactiva: Genera gráficos dinámicos y responsivos utilizando la librería Plotly Express.
+Análisis a Demanda: Los gráficos se generan solo cuando el usuario hace clic en los botones correspondientes.
 > [[Ver Repositorio]](https://github.com/JuanCris09/sprint7)
 
 ### 2. Proyecto de Validación y Limpieza de Datos
 > **Enfoque:** Garantizar la calidad de los datos a gran escala utilizando tu ventaja competitiva.
 > **Tecnologías Clave:** `Python`, `Pandas`, `Matplotlib` (para validación y depuración).
-> **Resultado Demostrado:** [Analisis de diferencias estadisticamente, comportamientos de ventas y consumos de planes]
+> **Resultado Demostrado:** Analisis de diferencias estadisticamente, comportamientos de ventas y consumos de planes
 > [[Ver Repositorio]](https://github.com/JuanCris09/planes_moviles)
 
 ---
